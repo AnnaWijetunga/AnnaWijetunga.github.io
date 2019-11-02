@@ -1,11 +1,11 @@
 # Site settings
-author: Anna Wijetunga
-title: 
+author: Anna
+title: Code Brain
 header-img: img/home-bg.png
 email: annawijetunga@gmail.com
-copyright_name: Anna Wijetunga
+copyright_name: Anna
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Understanding how the things around us work at a basic level
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  AnnaWijetunga
