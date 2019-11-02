@@ -24,9 +24,7 @@ Each new opportunity had that initial excitement of *new* and *interesting*, fol
 
 You may very well guess that becoming a mama changed things for me. Shortly after spending the first year home raising my wee babe, I pursued a radically new (for me!) opportunity because I needed to get out of the house! make friends! speak a-n-y-t-h-i-n-g other than baby talk!
 
-I was hired to work for an ed-tech company in New York City. 
-
-This, my dear readers, ignited the spark.
+I was hired to work for an ed-tech company in New York City. This, my dear readers, ignited the spark.
 
 Over the next (almost) two years, I learned about shocking things such as
 
