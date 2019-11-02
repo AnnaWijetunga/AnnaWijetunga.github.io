@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "So it begins"
-date:       2019-11-02 18:55:58 +0000
+date:       2019-11-02 14:55:59 -0400
 permalink:  so_it_begins
 ---
 
@@ -34,9 +34,7 @@ Over the next (almost) two years, I learned about shocking things such as
 2) what "custom code" meant
 3) the magic of HTML and CSS
 
-While I worked with customers, I had to know our product inside and out. Not only that, but I had to know clever tips to help folks customize.
-
-At this point, I'd be remiss to leave out a cetain unicorn who worked by my side.
+And there was someone who knew all of this so very well.
 
 He was a Product Specialist. Anything I couldn't "fix" for a customer on my own, he'd immediately offer possible solutions. **Every** time I'd wonder, 
 
