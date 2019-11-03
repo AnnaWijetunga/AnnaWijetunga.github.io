@@ -28,9 +28,9 @@ I was hired to work for an ed-tech company in New York City. This, my dear reade
 
 Over the next (almost) two years, I learned about shocking things such as
 
-1) the internet
-2) what "custom code" meant
-3) the magic of HTML and CSS
+1) what internet was capable of,
+2) what "custom code" meant,
+3) the magic of HTML and CSS.
 
 And there was someone who knew all of this so very well.
 
