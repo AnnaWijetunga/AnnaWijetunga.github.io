@@ -82,7 +82,7 @@ Having accomplished both, I do have a wish-list for when time becomes more abund
 
 2) I'd like users to be able to read the books in the program. I could link to the site's book reader (have a tab open in a user's browser) or simply add the link to that book.
 
-To see it for yourself, head here: https://github.com/AnnaWijetunga/book-selector-CLI
+To see it for yourself, head here: [GitHub](https://github.com/AnnaWijetunga/book-selector-CLI)
 
 Thanks so much for reading through! To comment or get in touch, please see the links below. - Anna
 
