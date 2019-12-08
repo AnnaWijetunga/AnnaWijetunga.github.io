@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "CLI Data Gem Project: Book Selector"
-date:       2019-12-08 19:46:58 +0000
+date:       2019-12-08 14:46:59 -0500
 permalink:  cli_data_gem_project_book_selector
 ---
 
@@ -79,7 +79,10 @@ My ultimate goal was two-fold: to build a program that was relatively functional
 Having accomplished both, I do have a wish-list for when time becomes more abundant:
 
 1) Instead of displaying all 52 books, I'd like to incorporate pagination, such that a user sees 10 titles at a time.
+
 2) I'd like users to be able to read the books in the program. I could link to the site's book reader (have a tab open in a user's browser) or simply add the link to that book.
+
+To see it for yourself, head here: https://github.com/AnnaWijetunga/book-selector-CLI
 
 Thanks so much for reading through! To comment or get in touch, please see the links below. - Anna
 
