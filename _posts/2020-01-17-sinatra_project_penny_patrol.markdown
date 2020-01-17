@@ -37,11 +37,13 @@ Initially, I created my params (in all forms as well as all controllers) not in 
 
 But! Nested hash format will be important once a project is more complex (hello Rails!), so it was important to me to implement now and get in the habit.
 
-I updated my forms first - here's a snippet (looking at `name =` specifically):
+I updated my forms first - here's a snippet:
 
-`<input type="text" name="expense[vendor]" id="vendor"/>`
+`name="expense[vendor]"`
 
- `<input type="date" name="expense[date]" id="date"/>`
+vs
+
+`name="vendor"`
 	
 Next, the controllers - here's a snippet:
 
