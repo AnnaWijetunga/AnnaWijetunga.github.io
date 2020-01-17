@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Sinatra Project: Penny Patrol"
-date:       2020-01-17 16:06:29 +0000
+date:       2020-01-17 11:06:31 -0500
 permalink:  sinatra_project_penny_patrol
 ---
 
@@ -39,13 +39,9 @@ But! Nested hash format will be important once a project is more complex (hello 
 
 I updated my forms first - here's a snippet (looking at `name =` specifically):
 
-```  <label for="vendor">Vendor: </label>
-  <input type="text" name="expense[vendor]" id="vendor"/>
+`<input type="text" name="expense[vendor]" id="vendor"/>`
 
-  <br>
-
-  <label for="date">Date: </label>
-  <input type="date" name="expense[date]" id="date"/>```
+ `<input type="date" name="expense[date]" id="date"/>`
 	
 Next, the controllers - here's a snippet:
 
