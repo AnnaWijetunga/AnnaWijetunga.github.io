@@ -61,11 +61,11 @@ The `resources` route maps HTTP verbs to controller actions automatically - just
 class CouponsController < ApplicationController
 
     def index
-		  @coupons = Coupon.all
+		@coupons = Coupon.all
     end
 
     def show
-		  @coupon = Coupon.find(params[:id])
+		@coupon = Coupon.find(params[:id])
     end
     
     def new
