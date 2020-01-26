@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Rails App From Scratch"
-date:       2020-01-26 17:46:48 +0000
+date:       2020-01-26 12:46:49 -0500
 permalink:  rails_app_from_scratch
 ---
 
@@ -10,7 +10,7 @@ What they say is true - Ruby on Rails is powerful (and magical!). But to really 
 
 Let's build a coupon application, which stores coupon codes and the stores they belong to.
 
-1. Create a coupon model in a folder `models` in a file `coupon.rb`:
+**Create a coupon model** in a folder `models` in a file `coupon.rb`:
 
 ```
 class Coupon < ActiveRecord::Base
@@ -18,7 +18,7 @@ class Coupon < ActiveRecord::Base
 end
 ```
 
-2. Create the table and migrate it. Go into your `db` folder and create a new folder, `migrate`, and within that folder, a new file, `001_create_coupons.rb`:
+**Create the table and migrate it.** Go into your `db` folder and create a new folder, `migrate`, and within that folder, a new file, `001_create_coupons.rb`:
 
 ```
 class CreateCoupons < ActiveRecord::Migration
@@ -33,9 +33,9 @@ class CreateCoupons < ActiveRecord::Migration
 end
 ```
 
-3. Migrate by running `bin/rails db:migrate RAILS_ENV=test` and look at your schema file afterwards to ensure all looks well.
+**Migrate** by running `bin/rails db:migrate RAILS_ENV=test` and look at your schema file afterwards to ensure all looks well.
 
-4. Create the `CouponsController` located in the `controllers` folder:
+**Create** the `CouponsController` located in the `controllers` folder:
 
 ```
 class CouponsController < ApplicationController
@@ -43,7 +43,7 @@ class CouponsController < ApplicationController
 end
 ```
 
-5. Create the routes within the folder `config` and the file `routes.rb`:
+**Create the routes** within the folder `config` and the file `routes.rb`:
 
 ```
 Rails.application.routes.draw do
@@ -55,7 +55,7 @@ end
 
 The `resources` route maps HTTP verbs to controller actions automatically - just the beginning of the magic
 
-6. Start building out the `CouponsController`:
+**Start building** out the `CouponsController`:
 
 ```
 class CouponsController < ApplicationController
@@ -83,9 +83,9 @@ class CouponsController < ApplicationController
 end
 ```
 
-7. At any point, type `rails routes` in the terminal to see the created routes. 
+**At any point**, type `rails routes` in the terminal to see the created routes. 
 
-8. Start mapping out the views within the folder `views` and folder `coupon` and your file names will look like this:
+**Start mapping out the views** within the folder `views` and folder `coupon` and your file names will look like this:
 
 ```
 index.html.erb
@@ -93,7 +93,7 @@ new.html.erb
 show.html.erb
 ```
 
-The rest is ensuring your views display what you intend them to display, using your console for testing, and seeing what your browser displays - errors, empty content or your actual content. 
+**The rest** is ensuring your views display what you intend them to display, using your console for testing, and seeing what your browser displays - errors, empty content or your actual content. 
 
 Cheers to building your own Rails app from scratch, and may you enjoy the power and magic!
 
