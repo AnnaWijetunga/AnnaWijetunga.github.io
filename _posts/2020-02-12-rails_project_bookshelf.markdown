@@ -1,13 +1,13 @@
 ---
 layout: post
 title:      "Rails Project: Bookshelf"
-date:       2020-02-12 10:53:43 +0000
+date:       2020-02-12 05:53:45 -0500
 permalink:  rails_project_bookshelf
 ---
 
 Thank you for being here! 
 
-This project is an MVC, Ruby on Rails web application created to save books and leave/share reviews amongst a community.
+This project is a MVC, Ruby on Rails web application created to save books and leave/share reviews amongst a community.
 
 **Why a book review app?**
 
