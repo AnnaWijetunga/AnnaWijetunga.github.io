@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "JavaScript Project: Fixit"
-date:       2020-03-13 15:22:57 +0000
+date:       2020-03-13 11:22:58 -0400
 permalink:  javascript_project_fixit
 ---
 
@@ -11,7 +11,7 @@ This project is a single page application (SPA) built using a JavaScript fronten
 
 **Why a home maintenance app?**
 
-As home owner, there are more projects than days of the year - most of which aren't urgent but do need attention. Say hello to Fixit, a home maintenance app designed for renters or owners to track what needs to be attended to around the home.
+As a home owner, there are more projects than days of the year - most of which aren't urgent but do need attention. Say hello to Fixit, a home maintenance app designed for renters or owners to track what needs to be attended to around the home.
 
 **Language and skills implemented**
 
